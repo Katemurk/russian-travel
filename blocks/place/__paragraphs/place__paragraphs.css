@@ -1,0 +1,33 @@
+.place__paragraphs {
+    margin: 0;
+    padding: 0;
+    align-self: start;
+}
+    
+@media screen and (max-width: 1024px) {
+    .place__paragraphs {
+        width: 456px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place__paragraphs {
+        width: 352px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .place__paragraphs {
+        width: 288px;
+        padding-left: 16px;
+        box-sizing: border-box;
+    }
+}
+@media screen and (max-width: 320px) {
+    .place__paragraphs {
+        width: 300px;
+        padding-left: 16px;
+        box-sizing: border-box;
+    }
+}
+    
