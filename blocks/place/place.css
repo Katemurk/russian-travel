@@ -44,14 +44,9 @@
         grid-template-columns: 1fr;
         row-gap: 32px;
         padding-bottom: 47px;
-        justify-items: center;
     }
 }
-@media screen and (max-width: 380px) {
-    .place {
-        justify-items: start;
-    }
-}
+
 
 @media screen and (max-width: 320px) {
     .place {

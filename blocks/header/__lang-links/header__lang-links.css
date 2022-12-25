@@ -7,10 +7,6 @@
     align-items: center;
 }
 
-.header__lang-links-item:hover {
-    opacity: 0.8;
-} 
-
 @media screen and (max-width: 320px) {
     .header__lang-links {
         padding-bottom: 18px;  

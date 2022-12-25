@@ -16,9 +16,10 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 720px) {
     .footer__copyright {
         padding-top: 45px;
         line-height: 14px;
+        align-self: flex-end;
     }
 }
